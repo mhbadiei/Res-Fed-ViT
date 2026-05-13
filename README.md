@@ -1,4 +1,4 @@
-# Res-Fed-ViT: Resilient Federated Vision Transformers for Alzheimer's Disease Prediction
+# Res-Fed-ViT: Resilient Federated Vision Transformers for Alzheimer's Disease Prediction 
 
 This repository contains the official implementation of **Res-Fed-ViT**, a resilient federated learning framework for **Alzheimer's disease prediction from brain MRI images**.
 
